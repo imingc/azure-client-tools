@@ -55,7 +55,7 @@ Limpet.exe [-azuredps [<dps connection string>] [command] [parameters]
 #### Get from github
 Clone recursively:
 
-    git clone --recursive https://github.com/ms-iot/azure-dm-client
+    git clone --recursive https://github.com/ms-iot/azure-client-tools
 
 If you find that the deps folder is empty, try this:
 
